@@ -14,7 +14,7 @@ int main()
         {
             printf("%c", sentence[i]);
         }
-        printf("...");
+        printf("...\n");
     } else
     {
         printf("%s\n", sentence);
