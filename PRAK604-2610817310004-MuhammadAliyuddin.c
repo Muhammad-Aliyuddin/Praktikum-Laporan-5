@@ -18,7 +18,7 @@ int main() {
     int long2 = strlen(message);
 
     if (long1 != long2) {
-        printf("Panjang kalimat berbeda, pesan palsu");
+        printf("Panjang kalimat berbeda, pesan palsu\n");
         return 0;
     }
     
